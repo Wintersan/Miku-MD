@@ -4848,6 +4848,8 @@ default:
   }
 
 */
+		
+		/* Latest Try///////////////////////////////////////////////////////////////////////////
 
   if (!isCmd&&!isGroup){
     await axios.get(`http://api.brainshop.ai/get?bid=165801&key=1ftAuFL7Fhj21Fyp&uid=[uid]&msg=${budy}]`)
@@ -4859,7 +4861,7 @@ default:
     })
 }
 
-
+*//////////////////////////////////////////////////////////////////////////////////////////
 
 if (budy.startsWith('=>')) {
 if (!isCreator) return reply(mess.botowner)
